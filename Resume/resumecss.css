@@ -1,0 +1,23 @@
+body { 
+	font-family: sans-serif;
+
+	background-color: rgb(255,255,255);}
+
+h1, h2 { color: #00CC66;}
+ 
+ img.align-center{ display: block; margin: 0px auto;}
+ img.medium{width:250px
+ 	height:250px;}
+
+ body { background-image: url("airplane.jpg");}
+
+ body{ padding: 20px;}
+ h1, a { color: #FFFFFF;}
+ 
+ ul, a {color: #000000; font-size: large ;}
+
+ b, a { color: #000000;}
+
+ h3, a {color : #FFFFFF; font-size: 200% ;}
+
+ p, a {color: #000000; font-size: large ;}
